@@ -15,7 +15,7 @@ A Python-based tool for analyzing web server logs to extract valuable insights, 
 
 # Requirements
 
-- Python 3.6 or higher, required Python libraries:
+Python 3.6 or higher, required Python libraries:
 - re (built-in)
 - collections (built-in)
 - csv (built-in)
